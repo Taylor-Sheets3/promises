@@ -31,7 +31,6 @@ describe('Callback review', function() {
         done();
       });
     });
-
   });
 
   describe('getStatusCode', function() {
